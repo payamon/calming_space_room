@@ -1,0 +1,15 @@
+.furniture_img {
+    display:inline-block;
+    height:75px;
+    margin-top:5px;
+}
+
+.history_rist{
+    display:flex;
+}
+
+figcaption{
+    flex:1;
+    font-size:8px;
+    margin:16px;
+}

@@ -1,0 +1,155 @@
+body{
+    background-color:#FFFFCC;
+    padding:0px;
+    margin:0px;
+}
+
+header {
+    background-color:#afeeee;
+    background:linear-gradient(#afeeee, #FFFFCC);
+    border-bottom:solid 1px #996633;
+    padding-bottom:0px;
+}
+
+.header_contents {
+    width:960px;
+    margin: 0 auto;
+    padding:5px;
+}
+
+.header_menu {
+    display:flex;
+}
+
+.title_place {
+    flex:1;
+    color:#FF3366;
+    font-family: "ＭＳ ゴシック",cursive;
+}
+
+.header_right_side {
+    display:flex;
+    margin-left:auto;
+}
+
+.shopping_cart {
+    display:inline-block;
+    flex:1;
+}
+
+.log_out {
+    display:inline-block;
+    flex:1;
+}
+
+.cart {
+    margin:20px;
+}
+
+.cart_img {
+    display:inline-block;
+    height:75px;
+    margin-top:5px;
+}
+
+.header_rist {
+    display:flex;
+    margin-top:16px;
+    margin-bottom:0px;
+}
+
+.menu{
+    flex:1;
+    color:#996633;
+    text-decoration:none;
+    padding:0px;
+}
+
+.all{
+    text-align:center;
+    border-right:solid 1px #996633;
+    border-left:solid 1px #996633;
+}
+
+.sofa{
+    text-align:center;
+    border-right:solid 1px #996633;
+}
+
+.bed{
+    text-align:center;
+    border-right:solid 1px #996633;
+}
+
+.carpet{
+    text-align:center;
+    border-right:solid 1px #996633;
+}
+
+.table{
+    text-align:center;
+    border-right:solid 1px #996633;
+}
+
+.other{
+    text-align:center;
+    border-right:solid 1px #996633;
+}
+
+
+.name_position {
+    width:960px;
+    margin: 0 auto;
+}
+
+.msg_position {
+    width:960px;
+    margin: 0 auto; 
+}
+
+
+menu {
+    width:960px;
+    margin: 0 auto;
+    padding:5px;
+}
+
+figure{
+    display:inline-block;
+    text-align:center;
+    margin:12px;
+    padding:5px;
+    border:solid 1px #996633;
+}
+
+.doctor_img {
+    height:200px;
+    width:200px;
+}
+
+figcaption {
+    margin:5px;
+}
+
+
+th {
+    border:solid 1px;
+}
+
+td {
+    border:solid 1px;
+}
+
+.furniture_img {
+    display:inline-block;
+    height:75px;
+    margin-top:5px;
+}
+
+
+.copy_rights {
+    color:#999999;
+    width:500px;
+    margin:0 auto;
+    text-align:center;
+}
